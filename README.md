@@ -4,7 +4,7 @@ Brand Identity for a niche concept
 store with a curated selection of 
 contemporary design objects.
 
-![Img1](Slide 16_9 - 162.png)
+![Img1](Slide16.png)
 IDENTITY FOR BARELY BAREABLE
 Brand Identity for a niche concept 
 store with a curated selection of 
