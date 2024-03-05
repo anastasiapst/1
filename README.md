@@ -1,14 +1,20 @@
 ![Img2](6b8b5e191341535.65ca263de9fa9.png)
 IDENTITY FOR CONCEPT STORE THIS&THAT
-Brand Identity for a niche concept 
+<br>Brand Identity for a niche concept 
 store with a curated selection of 
 contemporary design objects.
+p {
+  padding-top: 40px;
+}
 
 ![Img1](Slide16.png)
 IDENTITY FOR BARELY BAREABLE
-Brand Identity for a niche concept 
+<br>Brand Identity for a niche concept 
 store with a curated selection of 
 contemporary design objects.
+p {
+  padding-top: 40px;
+}
 
 <style>
 p {
